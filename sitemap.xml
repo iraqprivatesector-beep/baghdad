@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- الصفحة الرئيسية محافظة بغداد -->
+  <url>
+    <loc>https://baghdad.iqps.pro/محافظة</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- المحلات التجارية -->
+  <url>
+    <loc>https://baghdad.iqps.pro/محلات-تجارية</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- الأعمال التجارية -->
+  <url>
+    <loc>https://baghdad.iqps.pro/اعمال-تجارية</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- الشارع الرقمي -->
+  <url>
+    <loc>https://baghdad.iqps.pro/الشارع-الرقمي</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
